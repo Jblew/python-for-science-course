@@ -1,5 +1,9 @@
 # Lekcja pierwsza — pierwszy pipeline
 
+- [<- Index](../README.md)
+
+
+
 ## Zadanie 1 — powłoka, CMD, terminal
 
 1. Opis co to jest powłoka
